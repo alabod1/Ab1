@@ -3,25 +3,25 @@
   {
     "user": "Ab1",
     "pass": "A",
-    "vip": false
+    "vip": true
   },
   
   {
     "user": "felix2",
     "pass": "mod2",
-    "vip": false
+    "vip": true
   },
   
   {
     "user": "felix3",
     "pass": "mod3",
-    "vip": false
+    "vip": true
   },
   
   {
     "user": "felix4",
     "pass": "mod4",
-    "vip": false
+    "vip": true
   }
   
 ]
