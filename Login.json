@@ -1,27 +1,12 @@
 [
-
   {
-    "user": "Ab1",
-    "pass": "Ab2",
-    "vip": false
+    "user": "ab",
+    "pass": "1",
+    "vip": true
   },
-  
   {
-    "user": "aba4",
-    "pass": "ab6",
-    "vip": false
-  },
-  
-  {
-    "user": "ala9",
-    "pass": "aba1",
-    "vip": false
-  },
-  
-  {
-    "user": "abf5",
-    "pass": "abf7",
+    "user": "username2",
+    "pass": "password2",
     "vip": false
   }
-  
 ]
